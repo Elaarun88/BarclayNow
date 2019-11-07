@@ -1,7 +1,4 @@
 I am 1 year old now.
-<<<<<<< HEAD
 I am 2 Years now.
 ! shall be 3
-=======
-1.5 Now
->>>>>>> 5abe863a3be52c35ba735e16a6c3fa25467b5e96
+Hello
